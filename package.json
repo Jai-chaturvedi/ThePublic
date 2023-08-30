@@ -21,6 +21,9 @@
     "mongoose": "^7.4.5",
     "slugify": "^1.6.6"
   },
+    "engines": {
+    "node": ">=17"
+  },
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
