@@ -3,3 +3,4 @@ The Public is a Blog website where any user can create , edit and delete any blo
 The Backend is written in NodeJs and ExpressJs.
 # Technologies : 
  HTML, CSS, Javascript, EJS, Node.js, ExpressJs, MongoDB, Bootstrap.
+ 
